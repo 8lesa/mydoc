@@ -1,0 +1,22 @@
+export const departments = [
+  'Të gjitha',
+  'Kardiologji',
+  'Neurologji',
+  'Kirurgji',
+  'Pediatri',
+  'Okulistikë',
+  'Gjinekologji',
+  'Ortopedi',
+  'Dermatologji',
+  'Otorinolaringologji',
+  'Psikiatri',
+  'Urologji',
+  'Gastroenterologji',
+  'Alergologji',
+  'Pneumologji',
+  'Endokrinologji',
+  'Nefrologji',
+  'Onkologji',
+  'Reumatologji',
+  'Hematologji'
+];
